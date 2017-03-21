@@ -4,14 +4,14 @@
 <p>
 	This is a repository that includes information and simple examples about JavaScript.
 	The folders included are numerated and this numeration points the order according to
-	both the projects and the different topic that is explained. 
+	both the project flow and the different topics that are explained. 
 </p>
 
 <h3>What is the point for me to use <i>Simplify JavaScript</i>?</h3>
 <p>
 	The point here is to start step by step understanding and having a solid foundation of 
 	the JavaScript Data Types, functions, objects, arrays and everything else needed in 
-	order to have good understanding of the language and also to be able to read and write
+	order to have a good understanding of the language and also to be able to read and write
 	simple and clean code.
 </p>
 
