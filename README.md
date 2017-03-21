@@ -30,4 +30,4 @@
 	it step by step while learning new concepts.
 </p>
 
-<h3>Good Luck, i hope this will help you as much as it did for me.</h3>
+<h3>Good Luck, i hope this will help you as much as it helped me.</h3>
