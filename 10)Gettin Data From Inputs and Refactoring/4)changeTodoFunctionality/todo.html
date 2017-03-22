@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Todo Application</title>
+</head>
+<body>
+	<h1>My Todos</h1>
+
+	<div>
+		<button onclick="handlers.displayTodos()">Display Todos</button>
+		<button onclick="handlers.toggleAll()">Toggle All Todos</button>
+	</div>
+
+	<hr>
+
+	<div>
+		<button onclick="handlers.addTodos()">Add a Todo</button>
+		<input id="addTodoText" type="text" placeholder="Give the new Todo" />
+	</div>
+
+	<hr>
+		
+	<div>
+		<button onclick="handlers.changeTodos()">Change a Todo</button>
+		<input id="changeTodoText" type="text" placeholder="Give the new changed Todo" />
+		<input id="changeTodoNum" type="number" placeholder="Give the index here" />
+	</div>
+
+	<hr>	
+
+	<div>
+		<button onclick="handlers.deleteTodos()">Delete a Todo</button>
+		<input id="deleteTodoNum" type="number" placeholder="Give the index here to delete the todo" />
+	</div>
+
+	<hr>	
+
+	<div>
+		<button onclick="handlers.toggleCompleted()">Mark a Todo as completed</button>
+		<input id="toggleCompleted" type="number" placeholder="Give the index here to mark the todo as completed" />
+	</div>
+
+	<hr>
+
+		
+
+	<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
