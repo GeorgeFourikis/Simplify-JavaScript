@@ -10,7 +10,7 @@ What is Boolean Logic?
 
 	>	| Greater than======================x > 10==========false
 	>=	| Greater than or equal to==========x >= 5==========true
-	<	| Less than=========================x < -50========false
+	<	| Less than=========================x < -50=========false
 	<=	| Less than or equal to=============x <= 100========true
 	==	| Equal to==========================x == "5"========true
 	!=	| Not equal to======================x != "b"========true
