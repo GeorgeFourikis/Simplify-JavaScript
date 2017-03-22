@@ -8,14 +8,14 @@ What is Boolean Logic?
 	Lets say i have a variable:
 		var x = 5;
 
-	>	| Greater than	            		x > 10	        false
-	>=	| Greater than or equal to			x >= 5			true
-	<	| Less than							x < -50			false
-	<=	| Less than or equal to				x <= 100		true
-	==	| Equal to							x == "5"		true
-	!=	| Not equal to						x != "b"		true
-	===	| Equal value and type				x === "5"		false
-	!==	| Not equal value or equal type		x !== "5"		true
+	>	| Greater than======================x > 10==========false
+	>=	| Greater than or equal to==========x >= 5==========true
+	<	| Less than=========================x < -50========false
+	<=	| Less than or equal to=============x <= 100========true
+	==	| Equal to==========================x == "5"========true
+	!=	| Not equal to======================x != "b"========true
+	===	| Equal value and type==============x === "5"=======false
+	!==	| Not equal value or equal type=====x !== "5"=======true
 
 Equality Operators
 ===========================================================================
