@@ -7,7 +7,7 @@ What is the debugger?
 How can i use it?
 ==========================================================================
 	Go to the script.js file in the folder.
-	<code>
+
 	displayTodos: function(){
 			debugger;   //here is the debugger
 			if(this.todos.length === 0){
@@ -22,7 +22,6 @@ How can i use it?
 				}
 			}
 		}
-	</code>
 
 
 ==========================================================================
