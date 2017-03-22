@@ -1,0 +1,4 @@
+IMPORTANT:
+=========================================================
+	You see that now i changed the way of showing the steps of the application.Instead of having JavaScript files,here we have folders that have Html and Javascript files and we will include also CSS files later.
+	The important thing to remember is to include our Javascript to our HTML page.So as we know,we go and make a script tag,then we give the src attribute the place where our Javascript lives.Then we can check very fast to see if we made it.Way before you start working,just after you linked it, go to the browser and hit right click,inspect element.Go to the console tab,then call in there our todoList object.If the Browser answers with our Object then we are fine and that means we linked it.If not, you should go back and check-troubleshoot the reason that the Javascript file is not linked.

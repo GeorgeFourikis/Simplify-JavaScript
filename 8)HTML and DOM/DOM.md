@@ -1,0 +1,7 @@
+So what is the DOM?
+====================================================================
+	DOM is the Document Object Model.So now that you understand what HTML does, you should be able to understand DOM too.DOM is the way the Browser understands the HTML we have given to it.It is also called the DOM tree.
+
+And how can i see that?
+====================================================================
+	Just go to a random webpage or even to the page you just made.Right click on the chrome browser.Then hit Inspect Element.In the Console,which by now you should feel familiar,because in there lives the Console that we were using,there is the elements tab.Hit Elements Tab and move your cursor across the elements and see the Browser that is pointing everything in orange boxes to show you how the browser understands the DOM after the given HTML.Remember,if you want to understand what type of element is used somewhere in a website just go in the far left of the tab that you can see the Elements and Console.There you will be able to see a cursor pointing a box.Hit that icon,and then go to the webpage and click a specific part of it that you may like and dont know what has been used.Then the Elements interface will give you all the information you need to know.
