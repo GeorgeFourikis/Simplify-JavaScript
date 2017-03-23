@@ -7,6 +7,15 @@
 	both the project flow and the different topics that are explained. 
 </p>
 
+<h3>Did you make the structure of those folders-lessons?</h3>
+<p>
+	Well,yes and no.I found out that making those folders organised like that in a single bigger
+	parent folder helped me a lot to refresh my knowledge and learn new things too.I need to mention 
+	though that the main content was inspired from <a href="https://twitter.com/gordon_zhu?lang=en">Gordon Zhu</a>,
+	and more specifically from the first part of his course from his <a href="https://watchandcode.com/">Website</a>.
+	So a Special thanks to him for the inspiration and all the help he gives.
+</p>
+
 <h3>What is the point for me to use <i>Simplify JavaScript</i>?</h3>
 <p>
 	The point here is to start step by step understanding and having a solid foundation of 
@@ -31,3 +40,5 @@
 </p>
 
 <h3>Good Luck, i hope this will help you as much as it helped me.</h3>
+
+<h3>Again, Special Thanks to <a href="https://twitter.com/gordon_zhu?lang=en">Gordon Zhu</a>, feel free to try his <a href="https://watchandcode.com/">Website</a></h3>
