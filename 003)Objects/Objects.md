@@ -1,6 +1,6 @@
 In JavaScript we use Objects to group related Data and Functions together.
 
-example: 
+example:
 	var freshStart = {
 						academy: "Elium",
 						city: "Brussels",
@@ -44,4 +44,4 @@ Before we see exactly what is happening with the object and the function,lets fo
 //console
 newObj.sayMyName(); // George
 
-//So the funtion runs, this.name inside the console.log of our function //means that the function should find the name that is related with the //Object newObj,so this.name == newObj.name.
+//So the function runs, this.name inside the console.log of our function //means that the function should find the name that is related with the //Object newObj,so this.name == newObj.name.
